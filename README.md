@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GobiShanthan
 - 👀 I’m interested in web development. The technoligies i have experiance with are html, css, javascript, react, redux, mongodb, nodejs,
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning the in and outs of realestate websites with the mernstack.
 - 📫 You can reach me at gobishanthan04@gmail.com
