@@ -1,1 +1,1 @@
-I am a passionate software engineering student,  who loves coding and problem-solving. I thrive on collaboration and working with others to create innovative solutions. I am  constantly learning and growing, and i am eager and excited to take on new challenges.
+I am a passionate software developer,  who loves coding and problem-solving. I thrive on collaboration and working with others to create innovative solutions. I am  constantly learning and growing, and i am eager and excited to take on new challenges.
