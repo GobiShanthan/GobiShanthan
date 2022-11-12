@@ -1,22 +1,26 @@
-<h1 align="center">Hi 👋, I'm Gobi</h1>
-
-I am a passionate software developer,  who loves coding and problem-solving. I thrive on collaboration and working with others to create innovative solutions. I am  constantly learning and growing, and i am eager and excited to take on new challenges.
-<h1 align="center"><a href="https:gobishanthan.dev" target="_blank" rel="noreferrer">
+<img align="center" src="https://drive.google.com/uc?export=view&id=1Bf3P735ACsSUO32PM0RvEAHMe0YGcEAO" alt="htl5" width="100%" height="100%"/> 
 
 
-👨‍💻My Portfolio [gobishanthan.dev](https://gobishanthan.dev/)
+\
+&nbsp;
 
-📫 How to reach me **gobishanthan04@gmail.com**
+<h1 >I am a passionate software developer,  who loves coding and problem-solving. I thrive on collaboration and working with others to create innovative solutions. I am  constantly learning and growing, and i am eager and excited to take on new challenges.</h1>
 
+
+<h1 align="left"><a href="https:gobishanthan.dev" target="_blank" rel="noreferrer">
+
+
+👨‍💻 [My Portfolio](https://gobishanthan.dev/)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gobi-shanthakumar-1749381b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edewor-onyedika/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gobi-shanthakumar-1749381b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gobi-shanthakumar-1749381b1/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">My Skills:</h3>
 <p align="left">
+
 <img src="https://drive.google.com/uc?export=view&id=1fvrHH4kUx7o2tebMmjMrRXQqfkYOU6Rz" alt="htl5" width="60" height="60"/> 
 <img src="https://drive.google.com/uc?export=view&id=1es2XgmIxnENFLEkwQ9Z_7WX7WOgj8T8Z" alt="css3" width="60" height="60"/>
 <img src="https://drive.google.com/uc?export=view&id=1NOgSTvYULQeq5zJv6xY91McIL6wouSNI" alt="javascript" width="60" height="60"/>
@@ -38,3 +42,4 @@ I am a passionate software developer,  who loves coding and problem-solving. I t
 <img src="https://drive.google.com/uc?export=view&id=1lpv_14fx6H-Vg7ccBAyUm80PgZxojlRR" alt="css3" width="60" height="60"/>
 
 </p>
+
