@@ -10,7 +10,7 @@
 <h1 align="left"><a href="https:gobishanthan.dev" target="_blank" rel="noreferrer">
 
 
-👨‍💻 [My Portfolio](https://gobishanthan.dev/)
+
 
 
 <h3 align="left">Connect with me:</h3>
