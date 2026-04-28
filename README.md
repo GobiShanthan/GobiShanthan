@@ -10,37 +10,108 @@
 
 ---
 
-## About Me
+## Full-Stack Software Engineer
 
-I'm a full-stack software engineer based in Ontario, Canada. I work across frontend, backend and desktop applications, with a focus on building real products from idea to production.
+I'm a full-stack software engineer based in Ontario, Canada, focused on building production-ready web, backend, desktop and infrastructure systems.
 
-Most of my work has been around production systems: SaaS admin platforms, Electron kiosk applications, content management systems, payment flows, dashboards, API integrations, SDK tooling and Bitcoin-native infrastructure.
+I work across React, Next.js, TypeScript, Node.js, Express, Electron, databases, payments, cloud deployment and developer tooling. Most of my experience comes from building real products end to end: SaaS platforms, CMS systems, kiosk applications, payment flows, dashboards, APIs, SDKs and Bitcoin-native infrastructure.
 
-I like working on features end to end — understanding the problem, building the UI, connecting the backend, handling edge cases, debugging production issues and improving reliability.
+I enjoy owning the full delivery cycle, from understanding the product problem, designing the architecture, building the interface, connecting the backend, handling edge cases, deploying the system and supporting it in production.
 
 ---
 
-## Main Skills
+## Core Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,electron,mongodb,postgres,redux,tailwind,materialui,docker,aws,githubactions,git" />
 </p>
 
+**Frontend:** React, Next.js, TypeScript, JavaScript, Redux, Tailwind CSS, Material UI, styled-components  
+**Backend:** Node.js, Express, REST APIs, authentication, payment flows, integrations  
+**Desktop:** Electron, kiosk applications, touchscreen systems, offline-first media handling  
+**Databases:** MongoDB, PostgreSQL  
+**Infrastructure:** Docker, GitHub Actions, AWS, CI/CD, deployment workflows  
+**Other:** Stripe, Mapbox, SDKs, blockchain tooling, Bitcoin-native infrastructure  
+
 ---
 
-## What I Build
+## Systems I Build
 
-### SaaS Platforms
-Admin dashboards, CMS tools, media systems, authentication flows, billing features and API integrations.
+### SaaS Platforms & Admin Systems
 
-### Desktop & Kiosk Applications
-Electron applications for digital signage, touchscreen systems, offline media handling, scheduling and device control.
+I build admin platforms and SaaS systems with authentication, user management, project management, media workflows, billing, dashboards and API integrations.
 
-### Backend & Infrastructure
-Node.js and Express APIs, database design, authentication, third-party integrations, deployment workflows and production support.
+Examples of work include:
 
-### Bitcoin & Developer Tools
-Token tooling, wallet integrations, SDKs, explorers, APIs and infrastructure for programmable assets on Bitcoin.
+- CMS and control panels for managing digital signage networks
+- Multi-tenant admin interfaces
+- Project, device and media management systems
+- Billing and subscription flows with Stripe
+- Dashboard and reporting interfaces
+- Role-based access and protected routes
+
+---
+
+### Electron Desktop & Kiosk Applications
+
+I build Electron-based desktop applications for Windows and macOS, especially for touchscreen, kiosk and digital signage environments.
+
+This includes:
+
+- Offline media playback
+- Project syncing and localization
+- Device control workflows
+- Touchscreen-friendly UI components
+- Scheduling and timed content visibility
+- Dynamic layout rendering
+- Production debugging and stability improvements
+
+---
+
+### Backend APIs & Infrastructure
+
+I build backend systems that connect products to real business workflows.
+
+This includes:
+
+- Node.js and Express APIs
+- Authentication and authorization flows
+- MongoDB and PostgreSQL data models
+- Payment webhook handling
+- Third-party API integrations
+- File and media handling
+- CI/CD pipelines
+- Docker-based deployment workflows
+- Production monitoring and reliability improvements
+
+---
+
+### Bitcoin-Native Infrastructure & Developer Tools
+
+I also work on Bitcoin-native infrastructure and developer tooling, including programmable asset systems and wallet-facing tooling.
+
+This includes:
+
+- Token tooling and transfer flows
+- SDKs for issuing, transferring and reading token state
+- Wallet integration layers
+- Blockchain indexers and API services
+- Explorer and dashboard interfaces
+- Demo Next.js API servers
+- Developer tools for Bitcoin-based applications
+
+---
+
+## Selected Engineering Focus Areas
+
+- Building full-stack products from idea to production
+- Designing scalable React and Next.js applications
+- Improving legacy JavaScript systems with TypeScript
+- Building reliable Node.js and Express backends
+- Creating production-ready Electron applications
+- Integrating Stripe, authentication, maps, media and third-party APIs
+- Improving deployment workflows with Docker, CI/CD and cloud infrastructure
+- Building Bitcoin-native tooling, SDKs and infrastructure
 
 ---
 
@@ -48,21 +119,24 @@ Token tooling, wallet integrations, SDKs, explorers, APIs and infrastructure for
 
 - Building scalable full-stack systems
 - Going deeper with TypeScript, Next.js and Node.js
-- Improving deployment, CI/CD and cloud architecture
-- Expanding backend system design with PostgreSQL, Redis, Docker and AWS
-- Continuing work on Bitcoin-native infrastructure and developer tooling
+- Improving CI/CD, Docker and cloud deployment workflows
+- Expanding backend architecture with PostgreSQL, Redis and AWS
+- Continuing work on Bitcoin-native infrastructure and developer tools
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gobishanthan&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gobishanthan&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gobishanthan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gobishanthan&theme=github-dark-blue&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gobishanthan&theme=github-dark-blue&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gobishanthan&layout=compact&theme=github_dark&hide_border=true&langs_count=10" height="165" />
 </p>
 
 ---
