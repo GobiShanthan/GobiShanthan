@@ -16,7 +16,7 @@ I'm a full-stack software engineer based in Ontario, Canada. I work across front
 
 Most of my work has been around production systems: SaaS admin platforms, Electron kiosk applications, content management systems, payment flows, dashboards, API integrations, SDK tooling and Bitcoin-native infrastructure.
 
-I like working on features end to end, understanding the problem, building the UI, connecting the backend, handling edge cases, debugging production issues and improving reliability.
+I like working on features end to end — understanding the problem, building the UI, connecting the backend, handling edge cases, debugging production issues and improving reliability.
 
 ---
 
@@ -57,8 +57,12 @@ Token tooling, wallet integrations, SDKs, explorers, APIs and infrastructure for
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gobishanthan&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gobishanthan&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gobishanthan&theme=github-dark-blue&hide_border=true" height="160" />
 </p>
 
 ---
