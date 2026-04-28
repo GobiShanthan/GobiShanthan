@@ -2,16 +2,6 @@
   <img src="./assets/banner.png" alt="Gobi Shanthakumar - Full-Stack Software Engineer" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Gobi Shanthakumar</h1>
-
-<h3 align="center">
-  Full-Stack Software Engineer building web, desktop and backend systems
-</h3>
-
-<p align="center">
-  React • Next.js • TypeScript • Node.js • Electron • MongoDB • PostgreSQL
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/gobi-shanthakumar-1749381b1/" target="_blank">LinkedIn</a>
   •
@@ -22,11 +12,11 @@
 
 ## About Me
 
-I'm a full-stack software engineer based in Ontario, Canada.
+I'm a full-stack software engineer based in Ontario, Canada. I work across frontend, backend and desktop applications, with a focus on building real products from idea to production.
 
-I work across frontend, backend and desktop applications, with a focus on building real products that go from idea to production. My work includes SaaS admin platforms, Electron kiosk applications, content management systems, payment flows, dashboards, API integrations, SDK tooling and Bitcoin-native infrastructure.
+Most of my work has been around production systems: SaaS admin platforms, Electron kiosk applications, content management systems, payment flows, dashboards, API integrations, SDK tooling and Bitcoin-native infrastructure.
 
-I like working on features end to end: understanding the problem, building the UI, connecting the backend, handling edge cases, debugging production issues and improving reliability.
+I like working on features end to end, understanding the problem, building the UI, connecting the backend, handling edge cases, debugging production issues and improving reliability.
 
 ---
 
@@ -73,12 +63,10 @@ Token tooling, wallet integrations, SDKs, explorers, APIs and infrastructure for
 
 ---
 
-## Let's Connect
+## Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gobi-shanthakumar-1749381b1/" target="_blank">LinkedIn</a>
   •
   <a href="https://gobishanthan.dev" target="_blank">Portfolio</a>
 </p>
-
-> “Good software makes complex systems feel simple.”
