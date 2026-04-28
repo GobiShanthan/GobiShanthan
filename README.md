@@ -1,110 +1,84 @@
-<h1 align="center">Gobi Shanthakumar</h1>
+<p align="center">
+  <img src="./assets/banner.png" alt="Gobi Shanthakumar - Full-Stack Software Engineer" width="100%" />
+</p>
+
+<h1 align="center">Hi, I'm Gobi Shanthakumar</h1>
 
 <h3 align="center">
-Full-Stack Software Engineer | React • Next.js • TypeScript • Node.js • Electron
+  Full-Stack Software Engineer building web, desktop and backend systems
 </h3>
 
 <p align="center">
-Building production web, desktop and backend systems across SaaS platforms, kiosk applications, APIs and Bitcoin-native infrastructure.
+  React • Next.js • TypeScript • Node.js • Electron • MongoDB • PostgreSQL
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gobi-shanthakumar-1749381b1/" target="_blank">
-    LinkedIn
-  </a>
+  <a href="https://www.linkedin.com/in/gobi-shanthakumar-1749381b1/" target="_blank">LinkedIn</a>
   •
-  <a href="https://gobishanthan.dev" target="_blank">
-    Portfolio
-  </a>
+  <a href="https://gobishanthan.dev" target="_blank">Portfolio</a>
 </p>
 
 ---
 
 ## About Me
 
-I'm a full-stack software engineer based in Ontario, Canada. I work across frontend, backend and desktop applications, with a focus on building real products that go from idea to production.
+I'm a full-stack software engineer based in Ontario, Canada.
 
-My main stack includes React, Next.js, TypeScript, Node.js, Express, Electron, MongoDB and PostgreSQL.
+I work across frontend, backend and desktop applications, with a focus on building real products that go from idea to production. My work includes SaaS admin platforms, Electron kiosk applications, content management systems, payment flows, dashboards, API integrations, SDK tooling and Bitcoin-native infrastructure.
 
-I’ve worked on SaaS admin platforms, Electron-based kiosk applications, content management systems, payment flows, dashboards, API integrations, SDK tooling and Bitcoin-native infrastructure.
+I like working on features end to end: understanding the problem, building the UI, connecting the backend, handling edge cases, debugging production issues and improving reliability.
 
-I enjoy working on features end to end: understanding the problem, building the UI, connecting the backend, handling edge cases, debugging production issues and getting things stable in production.
+---
+
+## Main Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,electron,mongodb,postgres,redux,tailwind,materialui,docker,aws,githubactions,git" />
+</p>
 
 ---
 
 ## What I Build
 
 ### SaaS Platforms
-Admin dashboards, CMS tools, media management systems, authentication flows, billing features and API integrations.
+Admin dashboards, CMS tools, media systems, authentication flows, billing features and API integrations.
 
 ### Desktop & Kiosk Applications
 Electron applications for digital signage, touchscreen systems, offline media handling, scheduling and device control.
 
 ### Backend & Infrastructure
-Node.js and Express APIs, database models, authentication, integrations, deployment workflows and production support.
+Node.js and Express APIs, database design, authentication, third-party integrations, deployment workflows and production support.
 
 ### Bitcoin & Developer Tools
 Token tooling, wallet integrations, SDKs, explorers, APIs and infrastructure for programmable assets on Bitcoin.
 
 ---
 
-## Core Stack
-
-### Frontend
-React, Next.js, TypeScript, JavaScript, Redux Toolkit, Tailwind CSS, Material UI, Styled Components, Framer Motion
-
-### Backend
-Node.js, Express.js, REST APIs, MongoDB, PostgreSQL, Mongoose, JWT Auth, WebSockets, Socket.io
-
-### Desktop / Kiosk
-Electron, desktop applications, kiosk systems, digital signage, offline media workflows
-
-### Tools & Cloud
-Docker, GitHub Actions, Git, GitHub, Vercel, Heroku, AWS, Firebase, Stripe, Mapbox
-
-### Blockchain
-Bitcoin, Go, blockchain infrastructure, SDK development, wallet integration, token tooling
-
----
-
-## Experience Highlights
-
-### Torram
-Software Engineer working on Bitcoin-native infrastructure and developer tools.
-
-- Built full-stack features with React, Next.js, Node.js and Go
-- Worked on TSB token tooling for issuing, transferring and reading token state
-- Built dashboards, explorers and demo API servers
-- Integrated wallet flows, indexers, signing logic and validation workflows
-
-### SignCast Media
-Full-stack developer on a digital signage and interactive kiosk platform.
-
-- Built React and Next.js admin tools
-- Developed Electron desktop applications for Windows and macOS
-- Worked on media libraries, scheduling, layouts and device controls
-- Supported deployed production screen systems
-
----
-
 ## Current Focus
 
-- Improving TypeScript depth across React, Next.js and Node.js
 - Building scalable full-stack systems
-- Working with Docker, cloud deployment and CI/CD workflows
-- Expanding production architecture skills across PostgreSQL, Redis, AWS and observability
+- Going deeper with TypeScript, Next.js and Node.js
+- Improving deployment, CI/CD and cloud architecture
+- Expanding backend system design with PostgreSQL, Redis, Docker and AWS
 - Continuing work on Bitcoin-native infrastructure and developer tooling
 
 ---
 
-## Connect
+## GitHub Stats
 
-<p>
-  <a href="https://www.linkedin.com/in/gobi-shanthakumar-1749381b1/" target="_blank">
-    LinkedIn
-  </a>
-  •
-  <a href="https://gobishanthan.dev" target="_blank">
-    Portfolio
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" height="160" />
 </p>
+
+---
+
+## Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gobi-shanthakumar-1749381b1/" target="_blank">LinkedIn</a>
+  •
+  <a href="https://gobishanthan.dev" target="_blank">Portfolio</a>
+</p>
+
+> “Good software makes complex systems feel simple.”
