@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Gobi Shanthakumar - Full-Stack Software Engineer" width="100%" />
+  <img src="./assets/banner.png" alt="Gobi Shanthan- Full-Stack Software Engineer" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gobi-shanthakumar-1749381b1/" target="_blank">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/gobi-shanthan-1749381b1/" target="_blank">LinkedIn</a>
   •
   <a href="https://gobishanthan.dev" target="_blank">Portfolio</a>
 </p>
@@ -128,7 +128,7 @@ This includes:
 ## Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gobi-shanthakumar-1749381b1/" target="_blank">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/gobi-shanthan-1749381b1/" target="_blank">LinkedIn</a>
   •
   <a href="https://gobishanthan.dev" target="_blank">Portfolio</a>
 </p>
