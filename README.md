@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/gobi-shanthan-1749381b1/" target="_blank">LinkedIn</a>
   •
-  <a href="https://gobishanthan.dev" target="_blank">Portfolio</a>
+  <a href="https://gobishanthan.com" target="_blank">Portfolio</a>
 </p>
 
 ---
@@ -130,5 +130,5 @@ This includes:
 <p align="left">
   <a href="https://www.linkedin.com/in/gobi-shanthan-1749381b1/" target="_blank">LinkedIn</a>
   •
-  <a href="https://gobishanthan.dev" target="_blank">Portfolio</a>
+  <a href="https://gobishanthan.com" target="_blank">Portfolio</a>
 </p>
