@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Gobi Shanthan- Full-Stack Software Engineer" width="100%" />
+  <img src="./assets/banner-v2.png" alt="Gobi Shanthan- Full-Stack Software Engineer" width="100%" />
 </p>
 
 <p align="center">
